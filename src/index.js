@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react";      //imports from React library node
 import ReactDOM from "react-dom";
 import ColoradoStateParks from "./ColoradoStateParks";
 
